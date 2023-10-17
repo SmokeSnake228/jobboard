@@ -1,0 +1,52 @@
+
+---Загруженные файлы---
+Файлы импорта для: Job Stack Theme были успешно загружены!
+Начальное максимальное время выполнения = 120
+Информация о файлах:
+Сайт URL = http://localhost/jobboard
+Файл данных = C:\wamp64\www\jobboard/wp-content/uploads/2023/09/demo-content-import-file_2023-09-07__11-44-59.xml
+Файл виджета = C:\wamp64\www\jobboard/wp-content/uploads/2023/09/demo-widgets-import-file_2023-09-07__11-44-59.json
+Файл настройки темы = C:\wamp64\www\jobboard/wp-content/uploads/2023/09/demo-customizer-import-file_2023-09-07__11-44-59.dat
+Файлы Redux:
+не определено!
+
+------
+Новый вызов AJAX!
+[WARNING] Failed to import job_listing_category Design
+[WARNING] Failed to import job_listing_category Development
+[WARNING] Failed to import job_listing_category Marketify
+[WARNING] Failed to import job_listing_category Sales
+
+
+------
+Новый вызов AJAX!
+[WARNING] Failed to import job_listing_category Design
+[WARNING] Failed to import job_listing_category Development
+[WARNING] Failed to import job_listing_category Marketify
+[WARNING] Failed to import job_listing_category Sales
+
+
+---Импорт виджетов---
+Sidebar : 
+
+Последние Вакансии - Recent Jobs - Импортировано
+
+job_stack Footer Widget1 : 
+
+Текст - Espy Jobs - Импортировано
+
+job_stack Footer Widget2 : 
+
+Страницы - Site Map - Импортировано
+
+job_stack Footer Widget3 : 
+
+Свежие записи - Recent News Articles - Импортировано
+
+
+
+---Импорт настроек темы---
+Импорт настроек темы завершен!
+
+---ocdi/after_import---
+
